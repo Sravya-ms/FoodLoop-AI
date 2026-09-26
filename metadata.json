@@ -1,0 +1,6 @@
+{
+  "name": "FoodLoop AI",
+  "description": "Smart Food Donation, Redistribution & Recipient Coordination Platform connecting verified donors with orphanages and old-age homes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

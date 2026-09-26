@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Steam / Sprout / Leaf above bowl -->
+    <path
+        android:fillColor="#86EFAC"
+        android:pathData="M54,32 C54,26 46,26 46,31 C46,38 54,42 54,42 C54,42 62,38 62,31 C62,26 54,26 54,32 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M38,36 C35,33 30,35 32,39 C34,44 40,46 40,46 C40,46 41,40 38,36 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M70,36 C73,33 78,35 76,39 C74,44 68,46 68,46 C68,46 67,40 70,36 Z" />
+    <!-- Main Food Bowl -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,50 L78,50 C78,50 77,72 54,72 C31,72 30,50 30,50 Z" />
+    <!-- Bowl Base -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M44,72 L64,72 L67,76 L41,76 Z" />
+    <!-- Heart / Loop Accent on Bowl -->
+    <path
+        android:fillColor="#16A34A"
+        android:pathData="M54,64 C52,62 48,58 48,56 C48,54.5 49.2,53.5 50.8,53.5 C51.8,53.5 53.2,54.2 54,55.2 C54.8,54.2 56.2,53.5 57.2,53.5 C58.8,53.5 60,54.5 60,56 C60,58 56,62 54,64 Z" />
+</vector>
